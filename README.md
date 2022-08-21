@@ -13,6 +13,6 @@ The results of the sentiments (i.e. positive, neutral and negative) obtained per
 
 As conclusion, the score 'compound' was presented in a table per each item, like this: 
 
-https://github.com/Andre-Luis-Lopes-da-Silva/Sentiment-Analysis-of-the-Copom-document-using-Vader/issues/2#issue-1345628223
+![Tabela exemplo](https://user-images.githubusercontent.com/78765404/185815760-6d131ad6-2d84-4991-86e5-eae76f79bb0b.png)
 
 We can say that the macroeconomic scenario for Brazil is still not very favorable according this sentiment analysis. 
