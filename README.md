@@ -9,8 +9,10 @@ The aim of this study was analyze the sentiment of the document of the meeting o
 First, the data were extracted from the PDF file and these data were cleaned, removing the noise texts. The items of this document were isolated. The sentiment analysis was performed in each selected items. As vader only works in the English language, a Vader's fork called LeIA (Léxico para Inferência Adaptada) was used to avoid having to translate the texts.
 The results of the sentiments (i.e. positive, neutral and negative) obtained per each item were plotted in barplot using the seaborn module. Like this example:  
 
+https://github.com/Andre-Luis-Lopes-da-Silva/Sentiment-Analysis-of-the-Copom-document-using-Vader/issues/1#issue-1345627533
 
 As conclusion, the score 'compound' was presented in a table per each item, like this: 
 
+https://github.com/Andre-Luis-Lopes-da-Silva/Sentiment-Analysis-of-the-Copom-document-using-Vader/issues/2#issue-1345628223
 
 We can say that the macroeconomic scenario for Brazil is still not very favorable according this sentiment analysis. 
