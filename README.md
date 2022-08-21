@@ -9,7 +9,7 @@ The aim of this study was analyze the sentiment of the document of the meeting o
 First, the data were extracted from the PDF file and these data were cleaned, removing the noise texts. The items of this document were isolated. The sentiment analysis was performed in each selected items. As vader only works in the English language, a Vader's fork called LeIA (Léxico para Inferência Adaptada) was used to avoid having to translate the texts.
 The results of the sentiments (i.e. positive, neutral and negative) obtained per each item were plotted in barplot using the seaborn module. Like this example:  
 
-[https://github.com/Andre-Luis-Lopes-da-Silva/Sentiment-Analysis-of-the-Copom-document-using-Vader/issues/1#issue-1345627533](https://user-images.githubusercontent.com/78765404/185815634-1dd84560-4bea-455f-b3e6-7c0b4bf22322.png)
+![Tabela exemplo](https://user-images.githubusercontent.com/78765404/185815634-1dd84560-4bea-455f-b3e6-7c0b4bf22322.png)
 
 As conclusion, the score 'compound' was presented in a table per each item, like this: 
 
